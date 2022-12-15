@@ -1,0 +1,15 @@
+C:\Users\maryna\Testing\C#\Lection1\bin\BNB\Debug\net7.0\Lection1.exe
+C:\Users\maryna\Testing\C#\Lection1\bin\BNB\Debug\net7.0\Lection1.deps.json
+C:\Users\maryna\Testing\C#\Lection1\bin\BNB\Debug\net7.0\Lection1.runtimeconfig.json
+C:\Users\maryna\Testing\C#\Lection1\bin\BNB\Debug\net7.0\Lection1.dll
+C:\Users\maryna\Testing\C#\Lection1\bin\BNB\Debug\net7.0\Lection1.pdb
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.csproj.AssemblyReference.cache
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.AssemblyInfoInputs.cache
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.AssemblyInfo.cs
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.csproj.CoreCompileInputs.cache
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.dll
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\refint\Lection1.dll
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.pdb
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\Lection1.genruntimeconfig.cache
+C:\Users\maryna\Testing\C#\Lection1\obj\BNB\Debug\net7.0\ref\Lection1.dll
